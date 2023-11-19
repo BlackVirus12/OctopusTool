@@ -18,3 +18,9 @@ Nmap Tracker
 
 
 Espero y les guste la tool
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Despues de largos años sin actualización por fin vuelve en su versión 3.0
+el cual tiene por fin todas las opciones desbloqueadas y totalmente funcionales
